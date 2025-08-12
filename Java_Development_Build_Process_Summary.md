@@ -266,5 +266,3 @@ cat META-INF/MANIFEST.MF
 - Debug common build errors by reading Gradle/Maven logs.
 
 ---
-
-If you want, I can prepare this summary as a nicely formatted **PDF** or **Markdown** file with code blocks and images for your learning portal. Just say the word!
